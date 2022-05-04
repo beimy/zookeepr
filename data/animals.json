@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Darryl",
+      "species": "Wallaby",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
